@@ -5,39 +5,41 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
-        <hint>List of NeedIt Records</hint>
+        <filter table="x_58872_needit_needit">stateIN14,16^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="14,16"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Pending Requests</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>NeedIts</mobile_title>
+        <mobile_title>Withdrawn Requests</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_58872_needit_needit</name>
-        <order>200</order>
+        <order>600</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_58872_needit.admin</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-11 21:09:38</sys_created_on>
+        <sys_created_on>2019-04-12 20:50:47</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>26171b34dbb03300150f560868961958</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>cf0c5099db703300150f560868961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_module_26171b34dbb03300150f560868961958</sys_update_name>
+        <sys_update_name>sys_app_module_cf0c5099db703300150f560868961994</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-12 00:47:10</sys_updated_on>
+        <sys_updated_on>2019-04-12 20:50:47</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Pending Requests</title>
         <uncancelable>false</uncancelable>
-        <view_name>All NeedIt Requests</view_name>
+        <view_name/>
         <window_name/>
     </sys_app_module>
 </record_update>
