@@ -6,7 +6,7 @@
         <decision_table/>
         <decision_table_inputs/>
         <display_text/>
-        <flow display_value="NeedIt Fulfillment">fb0bd0a4db813300150f560868961952</flow>
+        <flow display_value="NeedIt Fulfillment">b54eb078db013300150f56086896192c</flow>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
         <order>3</order>
@@ -15,47 +15,47 @@
         <parent_ui_id/>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-24 18:46:20</sys_created_on>
-        <sys_id>def23909db8d3300150f56086896191e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_created_on>2019-04-24 22:03:56</sys_created_on>
+        <sys_id>6030e60ddb017300150f5608689619da</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_hub_flow_logic_def23909db8d3300150f56086896191e</sys_update_name>
+        <sys_update_name>sys_hub_flow_logic_6030e60ddb017300150f5608689619da</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-24 22:04:00</sys_updated_on>
+        <sys_updated_on>2019-04-24 22:03:57</sys_updated_on>
         <ui_id>39b3068e-1803-4183-aeb1-213d96a62b96</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
     </sys_hub_flow_logic>
-    <sys_variable_value action="delete_multiple" query="document_key=def23909db8d3300150f56086896191e"/>
+    <sys_variable_value action="delete_multiple" query="document_key=6030e60ddb017300150f5608689619da"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_flow_logic</document>
-        <document_key>def23909db8d3300150f56086896191e</document_key>
-        <order>10</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-24 18:46:20</sys_created_on>
-        <sys_id>9af23909db8d3300150f560868961922</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-24 18:46:20</sys_updated_on>
-        <value>Request Approved</value>
-        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_flow_logic</document>
-        <document_key>def23909db8d3300150f56086896191e</document_key>
+        <document_key>6030e60ddb017300150f5608689619da</document_key>
         <order>20</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-24 18:46:20</sys_created_on>
-        <sys_id>d6f23909db8d3300150f560868961922</sys_id>
+        <sys_created_on>2019-04-24 22:03:56</sys_created_on>
+        <sys_id>2c30e60ddb017300150f5608689619dd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-24 18:46:20</sys_updated_on>
+        <sys_updated_on>2019-04-24 22:03:56</sys_updated_on>
         <value>{{75ecf0f6-036a-4e04-aecd-3ea9baa349f0.approval_state}}=approved</value>
         <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>6030e60ddb017300150f5608689619da</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-24 22:03:56</sys_created_on>
+        <sys_id>ec30e60ddb017300150f5608689619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-24 22:03:56</sys_updated_on>
+        <value>Request Approved</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
     </sys_variable_value>
 </record_update>
